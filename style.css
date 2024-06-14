@@ -1,0 +1,22 @@
+.navbar{
+    background-color: #ff80aa;
+}
+.nav-link{
+ font-style: bold;
+}
+.main-img{
+    width: 100%;
+    height: 550px;
+}
+.img-container{
+    width: 300px;
+    border-radius: 10px;
+}
+.heading-container{
+ margin: 20px auto;
+}
+
+.fa-user{
+    font-size: 25px;
+    margin-right: 20px;
+}

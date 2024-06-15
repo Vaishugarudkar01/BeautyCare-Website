@@ -1,0 +1,14 @@
+.map-container{
+    display: flex;
+}
+.text{
+    margin: 50px 150px 20px 0px;
+}
+.incre{
+    width: 20px;
+    margin-left: 5px;
+   }
+   .heading{
+    padding: 20px;
+    font-style: bold;
+   }

@@ -32,8 +32,8 @@ function incre(){
     else{
         alert('You cant order more than 10 items')
     }
-    total.innerText =  `Total:${quantity*247}/-`;
-    showqauntity.innerText = `${quantity} x 247`;
+    total.innerText =  `Total:${quantity*163}/-`;
+    showqauntity.innerText = `${quantity} x 163`;
  }
 
  function decre(){
@@ -47,8 +47,8 @@ function incre(){
     else{
         alert('You cant order less than 1 items')
     }
-    total.innerText =  `Total:${quantity*247}/-`;
-    showqauntity.innerText = `${quantity} x 247`;
+    total.innerText =  `Total:${quantity*163}/-`;
+    showqauntity.innerText = `${quantity} x 163`;
    
  }
 
@@ -89,8 +89,8 @@ function incre1(){
     else{
         alert('You cant order more than 10 items')
     }
-    total1.innerText =  `Total:${quantity*765}/-`;
-    showqauntity1.innerText = `${quantity} x 764`;
+    total1.innerText =  `Total:${quantity*350}/-`;
+    showqauntity1.innerText = `${quantity} x 350`;
  }
 
  function decre1(){
@@ -104,8 +104,8 @@ function incre1(){
     else{
         alert('You cant order less than 1 items')
     }
-    total1.innerText =  `Total:${quantity*764}/-`;
-    showqauntity1.innerText = `${quantity} x 764`;
+    total1.innerText =  `Total:${quantity*350}/-`;
+    showqauntity1.innerText = `${quantity} x 350`;
    
  }
 
@@ -146,8 +146,8 @@ function incre2(){
     else{
         alert('You cant order more than 10 items')
     }
-    total2.innerText =  `Total:${quantity*765}/-`;
-    showqauntity2.innerText = `${quantity} x 764`;
+    total2.innerText =  `Total:${quantity*240}/-`;
+    showqauntity2.innerText = `${quantity} x 240`;
  }
 
  function decre2(){
@@ -161,8 +161,8 @@ function incre2(){
     else{
         alert('You cant order less than 1 items')
     }
-    total2.innerText =  `Total:${quantity*764}/-`;
-    showqauntity2.innerText = `${quantity} x 764`;
+    total2.innerText =  `Total:${quantity*240}/-`;
+    showqauntity2.innerText = `${quantity} x 240`;
    
  }
 
@@ -202,8 +202,8 @@ function incre3(){
     else{
         alert('You cant order more than 10 items')
     }
-    total3.innerText =  `Total:${quantity*240}/-`;
-    showqauntity3.innerText = `${quantity} x 240`;
+    total3.innerText =  `Total:${quantity*208}/-`;
+    showqauntity3.innerText = `${quantity} x 208`;
  }
 
  function decre3(){
@@ -217,8 +217,8 @@ function incre3(){
     else{
         alert('You cant order less than 1 items')
     }
-    total3.innerText =  `Total:${quantity*240}/-`;
-    showqauntity3.innerText = `${quantity} x 240`;
+    total3.innerText =  `Total:${quantity*208}/-`;
+    showqauntity3.innerText = `${quantity} x 208`;
    
  }
 
@@ -259,8 +259,8 @@ function incre4(){
     else{
         alert('You cant order more than 10 items')
     }
-    total4.innerText =  `Total:${quantity*94}/-`;
-    showqauntity4.innerText = `${quantity} x 94`;
+    total4.innerText =  `Total:${quantity*194}/-`;
+    showqauntity4.innerText = `${quantity} x 194`;
  }
 
  function decre4(){
@@ -274,8 +274,8 @@ function incre4(){
     else{
         alert('You cant order less than 1 items')
     }
-    total4.innerText =  `Total:${quantity*94}/-`;
-    showqauntity4.innerText = `${quantity} x 94`;
+    total4.innerText =  `Total:${quantity*194}/-`;
+    showqauntity4.innerText = `${quantity} x 194`;
    
  }
 
@@ -315,8 +315,8 @@ function incre5(){
     else{
         alert('You cant order more than 10 items')
     }
-    total5.innerText =  `Total:${quantity*1500}/-`;
-    showqauntity5.innerText = `${quantity} x 1500`;
+    total5.innerText =  `Total:${quantity*150}/-`;
+    showqauntity5.innerText = `${quantity} x 150`;
  }
 
  function decre5(){
@@ -330,7 +330,7 @@ function incre5(){
     else{
         alert('You cant order less than 1 items')
     }
-    total5.innerText =  `Total:${quantity*1500}/-`;
-    showqauntity5.innerText = `${quantity} x 1500`;
+    total5.innerText =  `Total:${quantity*150}/-`;
+    showqauntity5.innerText = `${quantity} x 150`;
    
  }

@@ -13,3 +13,29 @@
 .btn:hover{
     background-color: #af1347;
 }
+
+.img_chnager1:hover{
+   color: #910e39bc;
+    font-size: 17px;
+    font-weight: 700;
+    margin-top: -20px;
+}
+.img_chnager2:hover{
+    color:#ea38a9;
+    font-size: 17px;
+    font-weight: 700;
+    margin-top: -20px;
+}
+.img_chnager3:hover{
+    color:#8e2323;
+    font-size: 17px;
+    font-weight: 700;
+    margin-top: -20px;
+}
+.img_chnager4:hover{
+    
+    color:#eb0000;
+    font-size: 17px;
+    font-weight: 700;
+    margin-top: -20px;
+}

@@ -1,23 +1,23 @@
 function slider1(){
     const slideChanger = document.getElementById("slider");
 
-    slideChanger.src = '../images/lip1.avif' ;
+    slideChanger.src = '../images/lipbam1.avif' ;
 }
 function slider2(){
     const slideChanger = document.getElementById("slider");
 
-    slideChanger.src = '../images/lip2.avif' ;
+    slideChanger.src = '../images/lipbam2.avif' ;
 
 }
 function slider3(){
     const slideChanger = document.getElementById("slider");
 
-    slideChanger.src = '../images/lip3.avif' ;
+    slideChanger.src = '../images/lipbam3.avif' ;
 }
 function slider4(){
     const slideChanger = document.getElementById("slider");
 
-    slideChanger.src = '../images/lip4.avif' ;
+    slideChanger.src = '../images/lipbam4.avif' ;
 }
 
 
@@ -58,23 +58,23 @@ function incre(){
 function slider8(){
     const slideChanger = document.getElementById("slider1");
 
-    slideChanger.src = '../images/foundation1.avif' ;
+    slideChanger.src = '../images/serum1.avif' ;
 }
 function slider5(){
     const slideChanger = document.getElementById("slider1");
 
-    slideChanger.src = '../images/foundation2.avif' ;
+    slideChanger.src = '../images/serum2.avif' ;
 
 }
 function slider6(){
     const slideChanger = document.getElementById("slider1");
 
-    slideChanger.src = '../images/foundation3.avif' ;
+    slideChanger.src = '../images/serum3.avif' ;
 }
 function slider7(){
     const slideChanger = document.getElementById("slider1");
 
-    slideChanger.src = '../images/foundation.webp' ;
+    slideChanger.src = '../images/serum4.avif' ;
 }
 
 
@@ -115,23 +115,23 @@ function incre1(){
 function slider9(){
     const slideChanger = document.getElementById("slider2");
 
-    slideChanger.src = '../images/kajal.webp' ;
+    slideChanger.src = '../images/gel1.avif' ;
 }
 function slider10(){
     const slideChanger = document.getElementById("slider2");
 
-    slideChanger.src = '../images/kajal2.webp' ;
+    slideChanger.src = '../images/gel2.avif' ;
 
 }
 function slider11(){
     const slideChanger = document.getElementById("slider2");
 
-    slideChanger.src = '../images/kajal3.webp' ;
+    slideChanger.src = '../images/gel3.avif' ;
 }
-function slide127(){
+function slider12(){
     const slideChanger = document.getElementById("slider2");
 
-    slideChanger.src = '../images/kajal4.webp' ;
+    slideChanger.src = '../images/gel4.avif' ;
 }
 
 
@@ -171,23 +171,23 @@ function incre2(){
 function slider13(){
     const slideChanger = document.getElementById("slider3");
 
-    slideChanger.src = '../images/nail1.webp' ;
+    slideChanger.src = '../images/facewash1.avif' ;
 }
 function slider14(){
     const slideChanger = document.getElementById("slider3");
 
-    slideChanger.src = '../images/nail2.webp' ;
+    slideChanger.src = '../images/facewash2.avif' ;
 
 }
 function slider15(){
     const slideChanger = document.getElementById("slider3");
 
-    slideChanger.src = '../images/nail3.webp' ;
+    slideChanger.src = '../images/facewash3.avif' ;
 }
 function slider16(){
     const slideChanger = document.getElementById("slider3");
 
-    slideChanger.src = '../images/nail4.webp' ;
+    slideChanger.src = '../images/facewash4.avif' ;
 }
 
 
@@ -228,23 +228,23 @@ function incre3(){
 function slider17(){
     const slideChanger = document.getElementById("slider4");
 
-    slideChanger.src = '../images/blush4.avif' ;
+    slideChanger.src = '../images/cream.avif' ;
 }
 function slider18(){
     const slideChanger = document.getElementById("slider4");
 
-    slideChanger.src = '../images/blush2.avif' ;
+    slideChanger.src = '../images/crem2.avif' ;
 
 }
 function slider19(){
     const slideChanger = document.getElementById("slider4");
 
-    slideChanger.src = '../images/blush3.avif' ;
+    slideChanger.src = '../images/cream3.avif' ;
 }
 function slider20(){
     const slideChanger = document.getElementById("slider4");
 
-    slideChanger.src = '../images/blush.avif' ;
+    slideChanger.src = '../images/cream4.avif' ;
 }
 
 

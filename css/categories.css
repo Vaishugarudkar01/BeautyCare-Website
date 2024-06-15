@@ -1,0 +1,15 @@
+
+.card1{
+    margin: 20px;
+}
+.card-img{
+    height: 250px;
+
+}
+.btn{
+  background-color: #ff80aa;
+  border: none;
+}
+.btn:hover{
+    background-color: #af1347;
+}

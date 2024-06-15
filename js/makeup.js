@@ -112,26 +112,26 @@ function incre1(){
 // kajal
 
 
-function slider8(){
-    const slideChanger = document.getElementById("slider1");
+function slider9(){
+    const slideChanger = document.getElementById("slider2");
 
-    slideChanger.src = '../images/foundation1.avif' ;
+    slideChanger.src = '../images/kajal.webp' ;
 }
-function slider5(){
-    const slideChanger = document.getElementById("slider1");
+function slider10(){
+    const slideChanger = document.getElementById("slider2");
 
-    slideChanger.src = '../images/foundation2.avif' ;
+    slideChanger.src = '../images/kajal2.webp' ;
 
 }
-function slider6(){
-    const slideChanger = document.getElementById("slider1");
+function slider11(){
+    const slideChanger = document.getElementById("slider2");
 
-    slideChanger.src = '../images/foundation3.avif' ;
+    slideChanger.src = '../images/kajal3.webp' ;
 }
-function slider7(){
-    const slideChanger = document.getElementById("slider1");
+function slide127(){
+    const slideChanger = document.getElementById("slider2");
 
-    slideChanger.src = '../images/foundation.webp' ;
+    slideChanger.src = '../images/kajal4.webp' ;
 }
 
 
@@ -168,26 +168,26 @@ function incre1(){
 
 //  neil polish
 
-function slider8(){
-    const slideChanger = document.getElementById("slider1");
+function slider13(){
+    const slideChanger = document.getElementById("slider3");
 
-    slideChanger.src = '../images/foundation1.avif' ;
+    slideChanger.src = '../images/nail1.webp' ;
 }
-function slider5(){
-    const slideChanger = document.getElementById("slider1");
+function slider14(){
+    const slideChanger = document.getElementById("slider3");
 
-    slideChanger.src = '../images/foundation2.avif' ;
+    slideChanger.src = '../images/nail2.webp' ;
 
 }
-function slider6(){
-    const slideChanger = document.getElementById("slider1");
+function slider15(){
+    const slideChanger = document.getElementById("slider3");
 
-    slideChanger.src = '../images/foundation3.avif' ;
+    slideChanger.src = '../images/nail3.webp' ;
 }
-function slider7(){
-    const slideChanger = document.getElementById("slider1");
+function slider16(){
+    const slideChanger = document.getElementById("slider3");
 
-    slideChanger.src = '../images/foundation.webp' ;
+    slideChanger.src = '../images/nail4.webp' ;
 }
 
 
@@ -225,26 +225,26 @@ function incre1(){
 
 //  blush
 
-function slider8(){
-    const slideChanger = document.getElementById("slider1");
+function slider17(){
+    const slideChanger = document.getElementById("slider4");
 
-    slideChanger.src = '../images/foundation1.avif' ;
+    slideChanger.src = '../images/blush4.avif' ;
 }
-function slider5(){
-    const slideChanger = document.getElementById("slider1");
+function slider18(){
+    const slideChanger = document.getElementById("slider4");
 
-    slideChanger.src = '../images/foundation2.avif' ;
+    slideChanger.src = '../images/blush2.avif' ;
 
 }
-function slider6(){
-    const slideChanger = document.getElementById("slider1");
+function slider19(){
+    const slideChanger = document.getElementById("slider4");
 
-    slideChanger.src = '../images/foundation3.avif' ;
+    slideChanger.src = '../images/blush3.avif' ;
 }
-function slider7(){
-    const slideChanger = document.getElementById("slider1");
+function slider20(){
+    const slideChanger = document.getElementById("slider4");
 
-    slideChanger.src = '../images/foundation.webp' ;
+    slideChanger.src = '../images/blush.avif' ;
 }
 
 
@@ -281,26 +281,26 @@ function incre1(){
 
 //  contour
 
-function slider8(){
-    const slideChanger = document.getElementById("slider1");
+function slider21(){
+    const slideChanger = document.getElementById("slider5");
 
-    slideChanger.src = '../images/foundation1.avif' ;
+    slideChanger.src = '../images/gloss1.avif' ;
 }
-function slider5(){
-    const slideChanger = document.getElementById("slider1");
+function slider22(){
+    const slideChanger = document.getElementById("slider5");
 
-    slideChanger.src = '../images/foundation2.avif' ;
+    slideChanger.src = '../images/gloss2.avif' ;
 
 }
-function slider6(){
-    const slideChanger = document.getElementById("slider1");
+function slider23(){
+    const slideChanger = document.getElementById("slider5");
 
-    slideChanger.src = '../images/foundation3.avif' ;
+    slideChanger.src = '../images/gloss3.avif' ;
 }
-function slider7(){
-    const slideChanger = document.getElementById("slider1");
+function slider24(){
+    const slideChanger = document.getElementById("slider5");
 
-    slideChanger.src = '../images/foundation.webp' ;
+    slideChanger.src = '../images/gloss4.avif' ;
 }
 
 

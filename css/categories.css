@@ -9,33 +9,68 @@
 .btn{
   background-color: #ff80aa;
   border: none;
+  margin-top: 20px;
 }
 .btn:hover{
     background-color: #af1347;
+   
+}
+.img_chnager1{
+    color: #000;
 }
 
 .img_chnager1:hover{
    color: #910e39bc;
-    font-size: 17px;
-    font-weight: 700;
-    margin-top: -20px;
+   font-size: 17px;
+   font-weight: 700;
+  
 }
 .img_chnager2:hover{
     color:#ea38a9;
-    font-size: 17px;
+     font-size: 17px;
     font-weight: 700;
-    margin-top: -20px;
+   
 }
 .img_chnager3:hover{
     color:#8e2323;
     font-size: 17px;
     font-weight: 700;
-    margin-top: -20px;
+  
 }
 .img_chnager4:hover{
     
     color:#eb0000;
     font-size: 17px;
     font-weight: 700;
-    margin-top: -20px;
+   
 }
+
+.incre{
+ width: 20px;
+}
+
+.img_chnager5:hover{
+    color: #ffcc99;
+    font-size: 17px;
+    font-weight: 700;
+   
+ }
+ .img_chnager6:hover{
+     color:#ffa64d;
+     font-size: 17px;
+     font-weight: 700;
+    
+ }
+ .img_chnager7:hover{
+     color:#ffd699;
+     font-size: 17px;
+     font-weight: 700;
+   
+ }
+ .img_chnager8:hover{
+     
+     color:#e68a00;
+     font-size: 17px;
+     font-weight: 700;
+    
+ }

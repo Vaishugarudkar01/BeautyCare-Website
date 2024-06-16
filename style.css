@@ -3,8 +3,13 @@
    
 }
 .nav-link{
- font-style: bold;
+ font-size: 17px;
  cursor: pointer;
+ font-weight: 500;
+
+}
+.nav-link:hover{
+    font-size: 18px;
 }
 .main-img{
     width: 100%;

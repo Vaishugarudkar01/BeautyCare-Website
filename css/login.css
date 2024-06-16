@@ -1,0 +1,21 @@
+.login-container{
+    width: 600px;
+    margin: 50px auto;
+  
+    padding: 20px;
+
+}
+.login-sub-container{
+    width: 300px;
+    margin: 20px  auto;
+    border: 2px solid #ff80aa;
+    padding: 40px;
+    border-radius: 10px;
+    
+}
+
+.padding{
+    padding: 2px 3px;
+    margin: 10px auto;
+   
+}

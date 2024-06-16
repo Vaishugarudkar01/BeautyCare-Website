@@ -12,3 +12,18 @@
     padding: 20px;
     font-style: bold;
    }
+   .border{
+    border-radius: 10px;
+    margin: 20px;
+    padding: 10px;
+   
+   }
+   .effect{
+    border: 1px solid #ff80aa;
+    font-size: 15px;
+   }
+   .effect:hover{
+    background-color: #ff80aa;
+    color: white;
+    
+   }

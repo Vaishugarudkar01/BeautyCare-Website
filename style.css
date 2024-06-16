@@ -1,8 +1,10 @@
 .navbar{
     background-color: #ff80aa;
+   
 }
 .nav-link{
  font-style: bold;
+ cursor: pointer;
 }
 .main-img{
     width: 100%;
@@ -38,4 +40,58 @@
     font-size: 40px;
     color: #ff80aa;
     margin-top: 10px;
+}
+
+/*footer css*/
+footer {
+    background-color: #ff80aa ;
+    padding: 2rem 0;
+    color: #000000;
+}
+
+.footer-container {
+    display: flex;
+    text-align: justify;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2rem;
+    flex-wrap: wrap;
+
+}
+.footer-column {
+    flex: 1;
+    padding: 0 1rem;
+    padding-bottom: 10px;
+}
+.footer-column h3 {
+    color: rgb(0, 0, 0);
+    padding-bottom: 5px;
+    font-weight: 600;
+    font-size: 22px;
+    margin-bottom: 1rem;
+}
+.footer-column p,
+.footer-column ul {
+    margin: 0;
+    list-style: none;
+    padding: 0;
+}
+.footer-column a {
+    line-height: 2;
+    color: #000000;
+    text-decoration: none;
+    transition: all .35s ease;
+}
+.footer-column a:hover {
+    padding-left: 10px;
+    color: #000000;
+    text-decoration: none;
+}
+.footer-copyright {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: 0.8rem;
+    color: #000000;
 }

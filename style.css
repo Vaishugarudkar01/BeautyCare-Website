@@ -103,3 +103,10 @@ footer {
     font-size: 0.8rem;
     color: #000000;
 }
+
+@media (max-width:479px){
+
+    .img-container{
+        margin-bottom: 20px;
+    }
+}

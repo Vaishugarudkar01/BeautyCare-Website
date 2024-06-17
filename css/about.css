@@ -3,6 +3,7 @@
 }
 .text{
     margin: 50px 150px 20px 0px;
+    text-align: center;
 }
 .incre{
     width: 20px;
@@ -32,4 +33,25 @@
     margin-bottom: 10px;
    }
    
-  
+   @media (max-width:479px){
+
+    .main-img{
+        width: 100%;
+    }
+   .heading{
+    text-align: center;
+   }
+   .map-container{
+    width: 100%;
+    display: block;
+   }
+   .map{
+    width: 100%;
+
+   }
+   .text{
+    width: 300px;
+    margin: 10px auto;
+    text-align: center;
+   }
+ }

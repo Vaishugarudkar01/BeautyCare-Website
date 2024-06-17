@@ -21,7 +21,7 @@ welcome to my beauty care website! this project is design for especially foe the
  
  ## To visit the website 
 
- ![alt text]()
+ ![alt text](https://beautywithcare.netlify.app/)
  
  
 

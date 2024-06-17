@@ -180,4 +180,16 @@
     
  }
 
- 
+ @media (max-width:479px){
+    .card1{
+      margin-left: 40%;
+    width: 600px;
+    }
+    .row{
+        margin-right: 20%;
+       
+    }
+    .card-img{
+        height: 200px;
+    }
+ }
